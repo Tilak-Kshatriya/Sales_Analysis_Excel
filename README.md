@@ -123,12 +123,6 @@ The top section of the dashboard shows:
 
 ---
 
-## 📽️ Demo Screenshot
-
-> Add a screenshot of the dashboard here (you can upload to GitHub and link it)
-
----
-
 ## 🙋 About Me
 
 **Tilak Nakade**  
@@ -149,16 +143,7 @@ This was one of my **first Excel-based analytical projects** where I independent
 
 All data used is **mock/sample data** for learning purposes only. This project is not affiliated with any real company or brand.
 
----
 
-## 📝 Suggested One-liner for Resume
 
-**Sales Analysis Dashboard (Excel):** Built an interactive business dashboard using Pivot Tables, Pivot Charts, and Slicers to analyze sales trends, regional performance, and product profitability from Superstore data.
-
----
-
-## 🔥 BONUS: What to Say in the Interview
-
-> “This was an Excel-based dashboard I built using Pivot Tables and Slicers to simulate what a real business might use. I analyzed things like total sales, monthly trends, and product/category-level performance. It helped me understand how Excel can be used as a basic BI tool even without any code.”
 
 
